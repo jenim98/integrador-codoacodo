@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.contenedor-carrusel img{
+    position: relative;
+    filter: brightness(55%);
+}
+.contenedor{
+    position: absolute;
+    top: 40%;
+    left: 55%;
+    right: 10%;
+    color: #ffffff;
+    text-align: end;
+}
+.btn-green{
+    background-color: #97c93c;
+    color: #ffffff;
+}
+.footer{
+    background: rgb(29,57,71);
+    background: linear-gradient(90deg, rgba(29,57,71,1) 0%, rgba(41,98,126,1) 100%);
+}
